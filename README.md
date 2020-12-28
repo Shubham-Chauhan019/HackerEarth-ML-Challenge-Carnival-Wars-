@@ -1,1 +1,1 @@
-# HackerEarth-ML-Challenge-Carnival-Wars-
+# HackerEarth-ML-Challenge-Carnival-Wars- This project is a Machine Learning Challenge on HackerEarth in which we have to predict the price of products based on the given factors, so basically it is a regression problem. I tried to visualize and analyse the data at my best and then i solved the given problem using Random Forest Regression Machine Learning Algorithm with a good r2 score and rmse value.
